@@ -1,0 +1,9 @@
+name: chess-bot
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cairo
+  - pip
+  - pip:
+      - -r requirements.txt
