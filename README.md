@@ -11,6 +11,7 @@ Telegram chat.
 > often differ from other tools. This project is unofficial and is not
 > affiliated with or endorsed by chess.com, Telegram, or the Stockfish project.
 
+![Bot review preview](assets/preview.png)
 ## Features
 - Reviews each new game automatically (polls the chess.com public API)
 - Board images with arrows: red = played move, green = best move
